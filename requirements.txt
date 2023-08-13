@@ -1,0 +1,5 @@
+beautifulsoup4
+flightradar24
+requests
+colorama
+webbrowser
